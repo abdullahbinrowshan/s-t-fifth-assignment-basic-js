@@ -125,7 +125,7 @@ function isBestFriend(isFriend1, isFriend2) {
             }
         }
     } else {
-        return "Please provide valid input";
+        return "Please provide objects";
     }
 }
 
